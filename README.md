@@ -82,11 +82,11 @@ Data is provided for academic research, policy analysis, and advocacy purposes. 
 
 ## Contact
 
-Diana Mosquera & Francisco Gallegos
+**Diana Mosquera & Francisco Gallegos**
 Diversa, Quito, Ecuador  
 📧 [hello@diversa.studio]
 
-Andrés Domínguez Hernández 
+**Andrés Domínguez Hernández** 
 📧 [andresdominguez85@gmail.com]
 
 ---
