@@ -83,11 +83,11 @@ Data is provided for academic research, policy analysis, and advocacy purposes. 
 ## Contact
 
 **Diana Mosquera & Francisco Gallegos**
-***Diversa***  
+***Diversa***<br> 
 📧 [hello@diversa.studio]
 
 **Andrés Domínguez Hernández**
-***The Alan Turing Institute***  
+***The Alan Turing Institute***<br> 
 📧 [andresdominguez85@gmail.com]
 
 ---
