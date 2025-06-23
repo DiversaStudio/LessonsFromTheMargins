@@ -10,6 +10,9 @@ The impacts of Generative AI in regions of Africa, Asia, and Latin America -with
 
 **Keywords:** Generative AI, Global South, Value Chain of AI, Responsible AI, Political Economy
 
+![Hidden Geographies of AI Map](hidden_ai_map.png)
+*Figure 1: Global geography of the AI value chain. Curved arrows indicate flows of materials and labor from extraction/production sites to centers of value capture.*
+
 ## Repository Contents
 
 ### 📊 Dataset: `ai_value_chain.txt`
