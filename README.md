@@ -86,7 +86,7 @@ Data is provided for academic research, policy analysis, and advocacy purposes. 
 Diversa, Quito, Ecuador  
 📧 [hello@diversa.studio]
 
-**Andrés Domínguez Hernández**  
-The Alan Turing Institute  
+***Andrés Domínguez Hernández***  
 📧 [andresdominguez85@gmail.com]
+
 ---
